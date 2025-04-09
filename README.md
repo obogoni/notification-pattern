@@ -56,7 +56,7 @@ public static Result<Cat> Create(string name, int age, string favoriteToy, doubl
         );
 }
 ``` 
-REST API as the presentation layer:
+REST API as the presentation layer, where the Result objet with combined errors is translated to a "http result":
 ```c#
 using CSharpFunctionalExtensions;
 using IResult = Microsoft.AspNetCore.Http.IResult;
