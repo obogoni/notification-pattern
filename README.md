@@ -2,7 +2,7 @@
 
 A basic implementation of the [Notification Pattern](https://www.martinfowler.com/eaaDev/Notification.html), as defined by Martin Fowler, but somewhat adapted to my needs.
 
-## implementation details
+## Implementation details
 
 Result Pattern with [CSharpFunctionalExtensions](https://github.com/vkhorikov/CSharpFunctionalExtensions), where the Result object is used like the "NotificiationError" object that stores the validation errors:
 ```c#
