@@ -1,6 +1,6 @@
 # Notification Pattern
 
-A basic implementation of the Notification Pattern, as defined by [Martin Fowler](https://www.martinfowler.com/eaaDev/Notification.html), but somewhat adapted to my needs.
+A basic implementation of the [Notification Pattern](https://www.martinfowler.com/eaaDev/Notification.html), as defined by Martin Fowler, but somewhat adapted to my needs.
 
 ## implementation details
 
